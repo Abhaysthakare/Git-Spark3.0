@@ -8,4 +8,8 @@ class spark {
     {
         System.out.println("M1");
     }
+    public static void notification()
+    {
+        System.out.println("Hello World");
+    }
 }
