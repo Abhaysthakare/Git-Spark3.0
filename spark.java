@@ -4,7 +4,7 @@ class spark {
         System.out.println("Hello World");
         m1();
     }
-    public static void  m1()
+    public static void  payment()
     {
         System.out.println("M1");
     }
