@@ -1,7 +1,7 @@
 class spark {
     public static void main(String args[])
     {
-        System.out.println("Hello World");
+        System.out.println("Hi");
         payment();
     }
     public static void  payment()
