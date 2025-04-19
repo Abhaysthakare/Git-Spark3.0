@@ -12,4 +12,8 @@ class spark {
     {
         System.out.println("Hello World");
     }
+    public static void Authentication()
+    {
+        System.out.println("Auth");
+    }
 }
